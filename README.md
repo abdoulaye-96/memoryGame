@@ -25,3 +25,6 @@ Once you complete a level, you can proceed to the next level or replay the curre
 
 # Contributions 🤝
 Feel free to submit issues or pull requests if you have ideas for improving the game. Contributions are always welcome!
+
+# you can play the game by copying and past the link below
+https://abdoulaye-96.github.io/memoryGame/
